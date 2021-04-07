@@ -1,0 +1,15 @@
+## Crash, debug, repeat 
+
+
+
+VisualPy encountered an unhandled error.: 
+
+
+ No dialog was found at 30 
+
+ ### Debug Information ### 
+ Architecture: win32 
+ Central Processing Unit Family (CPU): Intel64 Family 6 Model 58 Stepping 9, GenuineIntel 
+ Central Processing Unit Model (CPU): Intel(R) Core(TM) i3-3217U CPU @ 1.80GHz 
+ Guessed reason of crash: An error occured in the scripts! The interpreter has detected something wrong. 
+ Physical RAM available (total): svmem(total=12754198528, available=7867281408, percent=38.3, used=4886917120, free=7867281408)
